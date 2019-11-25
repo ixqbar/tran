@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <address>0.0.0.0:8686</address>
+    <data>/Users/xingqiba/workspace/go/awesomeProject/data</data>
+</config>
